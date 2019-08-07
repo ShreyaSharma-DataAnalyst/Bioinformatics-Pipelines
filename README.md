@@ -2,12 +2,13 @@
 Pipelines dealing with genomic data analysis
 
 ## findKmers.pl 
-Its a perl script that outputs the kmers as well as unique kmers of a string, given a string and a kmer length
+Its a perl script that outputs the kmers as well as unique kmers of a string, given a file string and a kmer length
 #### Requirements : perlV5 or more
-#### Usage : perl findKmers.pl
-It asks for a string and kmer length once the script is run
+#### Usage : perl findKmers.pl <.txt file>
 #### Output : kmers made and unique kmers found
-
+The layout of text file is important :
+First line - the string
+Second line - length of kmer required
 
 
 ## synthetic_seq.pl
