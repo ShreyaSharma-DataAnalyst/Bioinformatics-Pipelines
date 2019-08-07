@@ -23,3 +23,11 @@ Its a perl script which finds the start region, end region and gene id, given a 
 #### Requirements : perlV5 or more
 #### Usage : perl gtf_find_gene.pl <gtf file> 
 #### Output : A text file containing the start region, end region and gene id. It also gives total number of genes found.
+
+
+
+## cigar.pl
+Its a perl script which finds the cigar string, given .aln file
+#### Requirements : perlV5 or more
+#### Usage : perl cigar.pl <.aln file> 
+#### Output : Cigar string.
