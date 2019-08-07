@@ -1,7 +1,7 @@
 # Bioinformatics-Pipelines
 Pipelines dealing with genomic data analysis
 
-## findKmers.pl 
+## 1. findKmers.pl 
 Its a perl script that outputs the kmers as well as unique kmers of a string, given a string and a kmer length
 
 #### Requirements : perlV5 or more
