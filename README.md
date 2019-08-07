@@ -15,3 +15,11 @@ Its a perl script which creates a synthetic genome sequence given the length of 
 #### Requirements : perlV5 or more
 #### Usage : perl synthetic_seq.pl <length of seq>
 #### Output : A fasta file containing the artificial sequence of ATGC , length of sequence created
+
+
+
+## gtf_find_gene.pl
+Its a perl script which finds the start region, end region and gene id, given a gtf file
+#### Requirements : perlV5 or more
+#### Usage : perl gtf_find_gene.pl <gtf file> 
+#### Output : A text file containing the start region, end region and gene id. It also gives total number of genes found.
