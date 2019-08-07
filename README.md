@@ -1,4 +1,4 @@
-# Bioinformatics-Pipelines
+# Bioinformatics-Analysis
 Pipelines dealing with genomic data analysis
 
 ## findKmers.pl 
