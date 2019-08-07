@@ -32,3 +32,11 @@ Its a perl script which finds the cigar string, given .aln file
 #### Requirements : perlV5 or more
 #### Usage : perl cigar.pl <.aln file> 
 #### Output : Cigar string.
+
+
+
+## fasta_seq.pl
+Its a perl script which finds the total number of sequences, given fasta file, and tells length of each sequence under each fasta header
+#### Requirements : perlV5 or more
+#### Usage : perl fasta_seq.pl <.fa file> 
+#### Output : Total number of fasta sequences, length of each sequence under each fasta header
